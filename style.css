@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+}
+
+#navbar{
+  background-color: pink;
+  text-align: center;
+  color:white;
+  font-size: 2em;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+img{
+  width: 30vh;
+  margin-left:5vh;
+}
+
+
+h1{
+  text-align: center;
+}
+
+
+.yellow-text{
+  background-color: red;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 2vh;
+}
